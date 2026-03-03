@@ -14,7 +14,7 @@ This project reflects both my experience learning Firebase and teaching beginner
 ## Tech Stack
 
 - Firebase (Authentication + Firestore)  
-- JavaScript  
+- Typescript  
 - React 
 
 ## Author
