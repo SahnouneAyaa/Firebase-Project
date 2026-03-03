@@ -9,7 +9,6 @@ The project demonstrates:
 - Real-time data handling and synchronization  
 - Best practices for structuring a frontend connected to Firebase
 
-This project reflects both my experience learning Firebase and teaching beginner students how to build interactive web applications using modern cloud tools.
 
 ## Tech Stack
 
