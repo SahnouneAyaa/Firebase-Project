@@ -1,22 +1,28 @@
-# Firebase CRUD Tutorial
+# React Firebase Authentication & Firestore
 
-A beginner-friendly tutorial created in collaboration with the Scientific Club at my university to teach students how to build a full CRUD system using Firebase.
+A React application built to demonstrate authentication and database integration using Firebase.
 
-The project demonstrates:
+---
 
-- Firebase Authentication for secure user login and registration  
-- Creating, reading, updating and deleting posts with Firebase Firestore  
-- Real-time data handling and synchronization  
-- Best practices for structuring a frontend connected to Firebase
+## Overview
+This project represents my first practical experience working with Firebase, focusing on authentication and real-time database integration.
 
+The goal was to understand how to connect a React application with Firebase services and manage user authentication alongside storing and retrieving data.
+
+---
+
+## Features
+
+- User authentication with Google
+- Firebase Authentication integration
+- Create and store posts using Firestore
+- Retrieve data from Firestore collections
+- Real-time interaction with database
+
+---
 
 ## Tech Stack
 
-- Firebase (Authentication + Firestore)  
-- Typescript  
-- React 
-
-## Author
-
-Aya Sahnoune  
-Full-Stack Developer – React, Next.js, Node.js
+- React
+- TypeScript
+- Firebase (Auth & Firestore)
